@@ -2,7 +2,7 @@
 
 ## [Unreleased]
 
-## RELEASE 5.1.2 - 2020-05-12
+## RELEASE 5.1.4 - 2020-05-12
 ### Changed
 - Technical - Patch CI configuration warnings.
 - Readme - Update the community badge.
